@@ -1,0 +1,2 @@
+# WAISE-INTERNSHIP-TASKS
+AI &amp; ML 
